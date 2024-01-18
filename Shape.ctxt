@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Shape
+comment0.text=\n\ Write\ a\ description\ of\ class\ Shape\ here.\n\n\ @author\ Eric\ Shen\n\ @version\ Jan\ 11,\ 2024\n
+comment1.params=color\ filled
+comment1.target=Shape(java.lang.String,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ getColor()
+comment3.params=
+comment3.target=boolean\ getFilled()
+comment4.params=col
+comment4.target=void\ setColor(java.lang.String)
+comment5.params=fil
+comment5.target=void\ setFilled(boolean)
+comment6.params=
+comment6.target=double\ calculateArea()
+comment7.params=
+comment7.target=double\ calculatePerimeter()
+comment8.params=
+comment8.target=void\ displayInfo()
+numComments=9
